@@ -12,7 +12,8 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "sourcegraph.amp"
+        "sourcegraph.amp",
+        "NomicFoundation.hardhat-solidity"
       ]
     }
   }
