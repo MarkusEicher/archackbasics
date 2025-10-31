@@ -1,0 +1,27 @@
+# Forge build output
+out/
+cache/
+
+# Dependencies
+lib/
+
+# Node modules (falls du JS/TS nutzt)
+node_modules/
+
+# Python virtual environments (falls du Python nutzt)
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# OS & Editor junk
+.DS_Store
+Thumbs.db
+
+# dotenv files
+.env
+.env.*
